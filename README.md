@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Julia García Vega</h1>
-<h3 align="center">Ambitious University Student Exploring Frontend, Backend, and AI Development, Graduating Soon</h3>
-
-- 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about **Java, C, React Native**
+<h3 align="center">Ambitious Junior Software Developer Exploring Frontend, Backend, and AI Development</h3>
 
 - 📫 How to reach me **juliagarve@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1MhH5up5f0OQqVpREcAtKkfxLgJEedF5R?usp=sharing](https://drive.google.com/drive/folders/1MhH5up5f0OQqVpREcAtKkfxLgJEedF5R?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1MhH5up5f0OQqVpREcAtKkfxLgJEedF5R?usp=sharing](https://drive.google.com/file/d/1XuLQF9miiQEnSp7c9PyfwgYpB5M0k1hv/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
